@@ -25,7 +25,7 @@ SECRET_KEY = 'vapsa$9s50@ax&g6(%0^z+esw2tbv^(0j!zw5*+2c+-=v=uc(h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1','10.30.80.83']
 
 
 # Application definition
